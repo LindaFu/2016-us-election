@@ -2,7 +2,7 @@
 
 2016 US Election Demographic analysis -
 
-Check if voter vote candicates based on the following demographic features:
+Identify voter patterns - if vote candicates based on the following demographic features:
 
 - race
 - medium income
