@@ -11,7 +11,7 @@ Identify voter patterns - if vote candicates based on the following demographic 
 
 Goals :
  - Identify the corelation among these features
- - show which candidate do better in certain categories (such counties with more higher eduction voters) 
+ - show which candidate do better in certain categories (such counties with more higher education voters) 
  - predict if certain features changes (up or down), which candicate will perform better 
 
 data set :
