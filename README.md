@@ -6,8 +6,8 @@ Identify voter patterns - if vote candicates based on the following demographic 
 
 - race
 - medium income
-- college eudcation
-- poulation density
+- college education
+- population density
 
 Goals :
  - Identify the corelation among these features
