@@ -12,7 +12,7 @@ Identify voter patterns - if vote candicates based on the following demographic 
 Goals :
  - Identify the corelation among these features
  - show which candidate do better in certain categories (such counties with more higher education voters) 
- - predict if certain features changes (up or down), which candicate will perform better 
+ - predict if certain features change (up or down), which candicate will perform better 
 
 data set :
 https://www.kaggle.com/benhamner/2016-us-election
