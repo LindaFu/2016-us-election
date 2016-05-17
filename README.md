@@ -23,10 +23,9 @@ https://www.kaggle.com/benhamner/2016-us-election
 state,state_abbreviation,county,fips,party,candidate,votes,fraction_vote
 
 Alabama,AL,Autauga,1001,Republican,Donald Trump,5387,0.445
+
 Alabama,AL,Autauga,1001,Republican,Ted Cruz,2482,0.205
-Alabama,AL,Autauga,1001,Republican,Marco Rubio,1785,0.14800000000000002
-Alabama,AL,Autauga,1001,Republican,Ben Carson,1764,0.146
-Alabama,AL,Autauga,1001,Republican,John Kasich,421,0.035
+
 
 (2) county_facts.csv
 
@@ -39,13 +38,5 @@ fips,area_name,state_abbreviation,PST045214,PST040210,PST120214,POP010210,AGE135
 column_name,description
 
 PST045214,"Population, 2014 estimate"
-PST040210,"Population, 2010 (April 1) estimates base"
-PST120214,"Population, percent change - April 1, 2010 to July 1, 2014"
-POP010210,"Population, 2010"
-AGE135214,"Persons under 5 years, percent, 2014"
-AGE295214,"Persons under 18 years, percent, 2014"
-AGE775214,"Persons 65 years and over, percent, 2014"
-SEX255214,"Female persons, percent, 2014"
-RHI125214,"White alone, percent, 2014"
-RHI225214,"Black or African American alone, percent, 2014
+
 
