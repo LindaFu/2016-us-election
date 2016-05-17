@@ -16,7 +16,7 @@ Goals :
 
 data set :
 https://www.kaggle.com/benhamner/2016-us-election
--> click download
+-> click 'Download Data'
 
 (1) primary_results.csv
 
